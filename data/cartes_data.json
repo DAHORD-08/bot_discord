@@ -1,0 +1,1126 @@
+[
+  {
+    "nom_fr": "Chevalier",
+    "nom_en": "Knight",
+    "alias": "Chev",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Archères",
+    "nom_en": "Archers",
+    "alias": "Archs",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Esprit de feu",
+    "nom_en": "Fire Spirit",
+    "alias": "EDF",
+    "cout_elixir": 1,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gobelins",
+    "nom_en": "Goblins",
+    "alias": "Gobs",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Canon",
+    "nom_en": "Cannon",
+    "alias": "Can",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Bâtiment",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Flèches",
+    "nom_en": "Arrows",
+    "alias": "Flèches",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Boule de neige",
+    "nom_en": "Snowball",
+    "alias": "BdN",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Sort",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Barbares",
+    "nom_en": "Barbarians",
+    "alias": "Barbs",
+    "cout_elixir": 5,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Géant royal",
+    "nom_en": "Royal Giant",
+    "alias": "GR",
+    "cout_elixir": 6,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Mousquetaire",
+    "nom_en": "Musketeer",
+    "alias": "Mousq",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Mini P.E.K.K.A",
+    "nom_en": "Mini P.E.K.K.A",
+    "alias": "Mini pekka",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Bombardier",
+    "nom_en": "Bomber",
+    "alias": "Bomber",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Esprit de glace",
+    "nom_en": "Ice Spirit",
+    "alias": "EDG",
+    "cout_elixir": 1,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Cage gobeline",
+    "nom_en": "Goblin Cage",
+    "alias": "Cage",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Esprit électrique",
+    "nom_en": "Electro Spirit",
+    "alias": "EE",
+    "cout_elixir": 1,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Armée de squelettes",
+    "nom_en": "Skeleton Army",
+    "alias": "Armskels",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Squelettes",
+    "nom_en": "Skeletons",
+    "alias": "Skels",
+    "cout_elixir": 1,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Esprit guérisseur",
+    "nom_en": "Heal Spirit",
+    "alias": "EG",
+    "cout_elixir": 1,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Charette à canon",
+    "nom_en": "Cannon Cart",
+    "alias": "Charette",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Géant",
+    "nom_en": "Giant",
+    "alias": "Géant",
+    "cout_elixir": 5,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Valkyrie",
+    "nom_en": "Valkyrie",
+    "alias": "Valky",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Chevaucheur de cochon",
+    "nom_en": "Hog Rider",
+    "alias": "Cochon",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cochons royaux",
+    "nom_en": "Royal Hogs",
+    "alias": "Cochons R",
+    "cout_elixir": 5,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": "coming soon"
+  },
+  {
+    "nom_fr": "Méga Gargouille",
+    "nom_en": "Mega Minion",
+    "alias": "MG",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Bûcheron",
+    "nom_en": "Lumberjack",
+    "alias": "Bûch",
+    "cout_elixir": 4,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Prince",
+    "nom_en": "Prince",
+    "alias": "Prince",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "P.E.K.K.A",
+    "nom_en": "P.E.K.K.A",
+    "alias": "Pekka",
+    "cout_elixir": 7,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Bébé dragon",
+    "nom_en": "Baby dragon",
+    "alias": "BB Drag",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Sorcière",
+    "nom_en": "Witch",
+    "alias": "Sorcière",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Géant Squelettes",
+    "nom_en": "Giant Skeleton",
+    "alias": "GS",
+    "cout_elixir": 6,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Golem",
+    "nom_en": "Golem",
+    "alias": "Golem",
+    "cout_elixir": 8,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Tornade",
+    "nom_en": "Tornado",
+    "alias": "Torn",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Foudre",
+    "nom_en": "Lightning",
+    "alias": "Foudre",
+    "cout_elixir": 6,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gel",
+    "nom_en": "Freeze",
+    "alias": "Gel",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Boules de feu",
+    "nom_en": "Fireball",
+    "alias": "BdF",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Prince ténébreux",
+    "nom_en": "Dark Prince",
+    "alias": "Prince T",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gardes",
+    "nom_en": "Guards",
+    "alias": "Gardes",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Chasseur",
+    "nom_en": "Hunter",
+    "alias": "Chass",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Bouliste",
+    "nom_en": "Bowler",
+    "alias": "Bouli",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Bélier de combat",
+    "nom_en": "Battle Ram",
+    "alias": "Bélier",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Miroir",
+    "nom_en": "Mirror",
+    "alias": "Miroir",
+    "cout_elixir": "+1",
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Barbares d’élite",
+    "nom_en": "Elite Barbarians",
+    "alias": "EBarbs",
+    "cout_elixir": 6,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Ballon",
+    "nom_en": "Balloon",
+    "alias": "Ball",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Tour à bombes",
+    "nom_en": "Bomb Tower",
+    "alias": "Tour B",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Dragon de l'enfer",
+    "nom_en": "Inferno Dragon",
+    "alias": "DDE",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Electrocuteurs",
+    "nom_en": "Zappies",
+    "alias": "Zappies",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Machine volante",
+    "nom_en": "Flying Machine",
+    "alias": "Machine V",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Recrues royales",
+    "nom_en": "Royal Recruits",
+    "alias": "Recrues",
+    "cout_elixir": 7,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Dragons squelettes",
+    "nom_en": "Skeleton Dragons",
+    "alias": "Dragons",
+    "cout_elixir": 4,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Machine volante",
+    "nom_en": "Flying Machine",
+    "alias": "Machine V",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Molosse de lave",
+    "nom_en": "Lava Hound",
+    "alias": "Molosse",
+    "cout_elixir": 7,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Frippons",
+    "nom_en": "Rascats",
+    "alias": "Frippns",
+    "cout_elixir": 5,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Fût à barbare",
+    "nom_en": "Barbarian Barrel",
+    "alias": "Fût Barb",
+    "cout_elixir": 2,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Fantôme royal",
+    "nom_en": "Royal Ghost",
+    "alias": "Fantôme",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Electrocution",
+    "nom_en": "Zap",
+    "alias": "Zap",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Sort",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Voleuse",
+    "nom_en": "Bandit",
+    "alias": "Voleuse",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Fût à squelettes",
+    "nom_en": "Skeleton Barrel",
+    "alias": "Fût Skels",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Sort",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Mortier",
+    "nom_en": "Mortar",
+    "alias": "Mortier",
+    "cout_elixir": 4,
+    "rarete": "Commune",
+    "type": "Bâtiment",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Pompe à élixir",
+    "nom_en": "Elixir Collector",
+    "alias": "Pompe",
+    "cout_elixir": 6,
+    "rarete": "Commune",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Pêcheur",
+    "nom_en": "Fisherman",
+    "alias": "Pêcheur",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Mamie sorcière",
+    "nom_en": "Mother Witch",
+    "alias": "Mamie",
+    "cout_elixir": 4,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Goblinstein",
+    "nom_en": "Goblinstein",
+    "alias": "Goblinstein",
+    "cout_elixir": 5,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Trois mousquetaires",
+    "nom_en": "Three Musketeers",
+    "alias": "3 Mousq",
+    "cout_elixir": 9,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Phénix",
+    "nom_en": "Phoenix",
+    "alias": "Phénix",
+    "cout_elixir": 4,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cimetière",
+    "nom_en": "Graveyard",
+    "alias": "Cimeti",
+    "cout_elixir": 5,
+    "rarete": "Légendaire",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Electro dragon",
+    "nom_en": "Electro Dragon",
+    "alias": "EDrag",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Pierre tombale",
+    "nom_en": "Tombstone",
+    "alias": "Tomstone",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Chauve-souris",
+    "nom_en": "Bats",
+    "alias": "Bats",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Sorcier de glace",
+    "nom_en": "Ice Wizard",
+    "alias": "Sorcier G",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Guérisseuse",
+    "nom_en": "Battle Healer",
+    "alias": "Guériss",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Canonnier",
+    "nom_en": "Cannoner",
+    "alias": "Canonnier",
+    "cout_elixir": "-",
+    "rarete": "Épique",
+    "type": "Troupe de Tour",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Chevalier d'or",
+    "nom_en": "Golden Knight",
+    "alias": "Chev d'or",
+    "cout_elixir": 4,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Electro-sorcier",
+    "nom_en": "Electro Wizard",
+    "alias": "ElectroS",
+    "cout_elixir": 4,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Fournaise",
+    "nom_en": "Furnace",
+    "alias": "Fournaise",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Géant gobelin",
+    "nom_en": "Goblin Giant",
+    "alias": "GB",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Gargouilles",
+    "nom_en": "Minions",
+    "alias": "Gargs",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Impératrice spirituelle",
+    "nom_en": "Spirit Empress",
+    "alias": "Impératrice",
+    "cout_elixir": 6,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Tour de princesse",
+    "nom_en": "Tower Princess",
+    "alias": "TPincess",
+    "cout_elixir": "-",
+    "rarete": "Commune",
+    "type": "Troupe de Tour",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gang de gobelins",
+    "nom_en": "Goblin Gang",
+    "alias": "Gang",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Reine des archers",
+    "nom_en": "Archer Queen",
+    "alias": "Reine",
+    "cout_elixir": 5,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Ronces",
+    "nom_en": "Vines",
+    "alias": "Ronces",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Roi squelette",
+    "nom_en": "Skeleton King",
+    "alias": "Roi skel",
+    "cout_elixir": 5,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Electro-géant",
+    "nom_en": "Electro Giant",
+    "alias": "EGéant",
+    "cout_elixir": 7,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cabane de gobelins",
+    "nom_en": "Goblin Hut",
+    "alias": "CabaneG",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Bourreau",
+    "nom_en": "Executioner",
+    "alias": "Bour",
+    "cout_elixir": 5,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Fût à gobelins",
+    "nom_en": "Goblin Barrel",
+    "alias": "Fût",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Sapeurs",
+    "nom_en": "Wall Breakers",
+    "alias": "Sapeurs",
+    "cout_elixir": 2,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Buisson suspicieux",
+    "nom_en": "Suspicious Bush",
+    "alias": "Buisson",
+    "cout_elixir": 2,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Arc-x",
+    "nom_en": "X-bow",
+    "alias": "Arcx",
+    "cout_elixir": 6,
+    "rarete": "Épique",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gobelins à lances",
+    "nom_en": "Spear Goblins",
+    "alias": "GoblinsL",
+    "cout_elixir": 2,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Séisme",
+    "nom_en": "Earthquake",
+    "alias": "Séisme",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Poison",
+    "nom_en": "Poison",
+    "alias": "Poison",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Archer magique",
+    "nom_en": "Magic Archer",
+    "alias": "ArcherM",
+    "cout_elixir": 4,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Moine",
+    "nom_en": "Monk",
+    "alias": "Moine",
+    "cout_elixir": 5,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Rage",
+    "nom_en": "Rage",
+    "alias": "Rage",
+    "cout_elixir": 2,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Golem de glace",
+    "nom_en": "Ice Golem",
+    "alias": "Golem",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Berserker",
+    "nom_en": "Berserker",
+    "alias": "Berserker",
+    "cout_elixir": 2,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gobelin à sarbacanes",
+    "nom_en": "Dart goblin",
+    "alias": "Dart",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Princesse",
+    "nom_en": "Princess",
+    "alias": "Princess",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Maître mineur",
+    "nom_en": "Mighty miner",
+    "alias": "MaîtreM",
+    "cout_elixir": 4,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Gobelin explosif",
+    "nom_en": "Goblin demolisher",
+    "alias": "GobelinExp",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Bûche",
+    "nom_en": "Log",
+    "alias": "Log",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cavabélière",
+    "nom_en": "Ram rider",
+    "alias": "Cava",
+    "cout_elixir": 5,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Méga Chevalier",
+    "nom_en": "Mega knight",
+    "alias": "MK",
+    "cout_elixir": 7,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Cheffe des voleuses",
+    "nom_en": "Boss bandit",
+    "alias": "CheffeVol",
+    "cout_elixir": 6,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Horde de gargouilles",
+    "nom_en": "Minion Horde",
+    "alias": "Horde",
+    "cout_elixir": 5,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Malédiction gobeline",
+    "nom_en": "Goblin curse",
+    "alias": "Malédiction",
+    "cout_elixir": 2,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Sorcier",
+    "nom_en": "Wizard",
+    "alias": "Sorc",
+    "cout_elixir": 5,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Mineur",
+    "nom_en": "Miner",
+    "alias": "Mineur",
+    "cout_elixir": 3,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Dûchesse aux dagues",
+    "nom_en": "Dagger Duchess",
+    "alias": "Duchesse",
+    "cout_elixir": "-",
+    "rarete": "Légendaire",
+    "type": "Troupe de Tour",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Artificière",
+    "nom_en": "Firecracker",
+    "alias": "Arti",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Troupe",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Néant",
+    "nom_en": "Void",
+    "alias": "Néant",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Tour de l'enfer",
+    "nom_en": "Inferno Tower",
+    "alias": "TDE",
+    "cout_elixir": 5,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Golem élixir",
+    "nom_en": "Elixir Golem",
+    "alias": "Golem elex",
+    "cout_elixir": 3,
+    "rarete": "Rare",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cuistot royal",
+    "nom_en": "Royal Chef",
+    "alias": "Cuistot",
+    "cout_elixir": "-",
+    "rarete": "Légendaire",
+    "type": "Troupe de Tour",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Tesla",
+    "nom_en": "Tesla",
+    "alias": "Tesla",
+    "cout_elixir": 4,
+    "rarete": "Commune",
+    "type": "Bâtiment",
+    "evolution": true
+  },{
+    "nom_fr": "Clonage",
+    "nom_en": "Clone",
+    "alias": "Clone",
+    "cout_elixir": 3,
+    "rarete": "Épique",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Colis royal",
+    "nom_en": "Royal Delivery",
+    "alias": "Colis",
+    "cout_elixir": 3,
+    "rarete": "Commune",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Machine gobeline",
+    "nom_en": "Goblin Machine",
+    "alias": "MachineGob",
+    "cout_elixir": 5,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Petit prince",
+    "nom_en": "Little prince",
+    "alias": "PPrince",
+    "cout_elixir": 3,
+    "rarete": "Champion",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Foreuse gobeline",
+    "nom_en": "Goblin Drill",
+    "alias": "Foreuse",
+    "cout_elixir": 4,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": true
+  },
+  {
+    "nom_fr": "Roquette",
+    "nom_en": "Rocket",
+    "alias": "Roquette",
+    "cout_elixir": 6,
+    "rarete": "Rare",
+    "type": "Sort",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Cabane de barbares",
+    "nom_en": "Barbarian Hut",
+    "alias": "CabaneB",
+    "cout_elixir": 6,
+    "rarete": "Rare",
+    "type": "Bâtiment",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Géante runique",
+    "nom_en": "Rune Giant",
+    "alias": "Géante",
+    "cout_elixir": 4,
+    "rarete": "Épique",
+    "type": "Troupe",
+    "evolution": false
+  },
+  {
+    "nom_fr": "Zappy",
+    "nom_en": "Sparky",
+    "alias": "Zappy",
+    "cout_elixir": 6,
+    "rarete": "Légendaire",
+    "type": "Troupe",
+    "evolution": false
+  }
+]
